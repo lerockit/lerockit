@@ -9,7 +9,7 @@ I love diving deep into architecture, optimizing performance, and exploring new 
 ## 🧩 Featured Project
 
 <div style="padding: 20px 0;">
-  <a href="http://palavrita.com" target="_blank"><img src="https://raw.githubusercontent.com/lerockit/palavrita/main/palavrita_logo.png" alt="Palavrita Logo" width="250"/></a>
+  <a href="https://palavrita.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/lerockit/palavrita/main/palavrita_logo.png" alt="Palavrita Logo" width="250"/></a>
 
   > *A Brazilian Portuguese take on the Wordle phenomenon.*
 </div>
@@ -18,7 +18,7 @@ It started as a fun challenge to sharpen my modern frontend skills as I returned
 
 It's crafted with speed and user experience in mind, powered by **Vite** for lightning-fast builds, **React** with **TypeScript** for robust logic, styled entirely with **TailwindCSS**, and brought to life with smooth animations using **Framer Motion**.
 
-🎮 [**Play Palavrita Now**](http://palavrita.com)
+🎮 [**Play Palavrita Now**](https://palavrita.netlify.app/)
 
 <br/>
 
